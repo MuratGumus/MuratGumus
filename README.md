@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuratGumus&label=Profile%20views&color=0e75b6&style=flat" alt="MuratGumus" /> </p>
 
-- 👨‍⚖️ I’m currently working as a **Lawyer**
+- 👨‍⚖️ I’m a **Computer Engineer**
+
+- 👨‍⚖️ I was currently working as a **Lawyer**
 
 - 👨‍🎓 I'm doing a master's degree in **Public Law**
 
